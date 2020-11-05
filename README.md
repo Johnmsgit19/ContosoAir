@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_apis/build/status/Johnmsgit19.ContosoAir?branchName=master)](https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_build/latest?definitionId=17&branchName=master)
+[![Build Status](https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_apis/build/status/Johnmsgit19.ContosoAir?branchName=master)]
+(https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_build/latest?definitionId=17&branchName=master)
 
 
 # Microsoft.Github CI Demo
