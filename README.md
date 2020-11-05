@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_apis/build/status/Johnmsgit19.ContosoAir?branchName=master)](https://dev.azure.com/JobDevOpsLab/Git-DevOpsDemos/_build/latest?definitionId=17&branchName=master)
 
 
 # Microsoft.Github CI Demo
